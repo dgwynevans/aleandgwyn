@@ -16,7 +16,7 @@ keep_files:
 # Site settings
 title: Ale and Gwyn
 subtitle: "Ale and Gwyn's wedding in Merida"
-url: "http://ndrewtl.github.io" # the base hostname & protocol for your site
+url: "http://dgwynevans.github.io/aleandgwyn" # the base hostname & protocol for your site
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
 baseurl: "/airspace-jekyll"
 cover: "/assets/cover.png"
